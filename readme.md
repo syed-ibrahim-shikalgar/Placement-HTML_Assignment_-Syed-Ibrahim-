@@ -1,4 +1,7 @@
-[Live Link of Resume]()
-[Live Link of Html Doc]()
-[Live Link of Music player]()
-[Live Link of Table]()
+## [**Live-link**]() of the Resume
+
+## [**Live-link**](https://tubular-douhua-ced3c3.netlify.app/) of the Html Doc
+
+## [**Live-link**]() of the Music player
+
+## [**Live-link**](https://velvety-marshmallow-cb2376.netlify.app/) of the Table
